@@ -4,4 +4,9 @@ This is a simple single-page website with my favorite movies and their trailers.
 
 ==Installation==
 
-This section includes the steps to get started with the project.
+Use Git or checkout with SVN using the web URL.
+https://github.com/ruslanml/Fresh-Tomatoes.git
+
+==Contributors==
+
+Ruslan Mursalzade - ruslan.mursal@gmail.com
